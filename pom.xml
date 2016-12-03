@@ -7,7 +7,7 @@
   <version>0.2.0</version>
   <packaging>jar</packaging>
 
-  <name>maven-archetype-java8-quickstart</name>
+  <name>Java8 quickstart</name>
   <url>https://github.com/yukihane/maven-archetype-java8-quickstart</url>
 
   <properties>
@@ -17,12 +17,4 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
 
-  <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.12</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
 </project>
