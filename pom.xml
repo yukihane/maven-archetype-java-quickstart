@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>Java8 quickstart</name>
-  <url>https://github.com/yukihane/maven-archetype-java8-quickstart</url>
+  <url>https://github.com/yukihane/maven-archetype-java-quickstart</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
