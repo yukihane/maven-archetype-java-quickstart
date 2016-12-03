@@ -1,4 +1,4 @@
-package com.github.yukihane.maven;
+package $package;
 
 /**
  * Hello world!
