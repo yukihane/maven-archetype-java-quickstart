@@ -8,7 +8,6 @@
   <packaging>jar</packaging>
 
   <name>A project based on java8maven</name>
-  <url>https://github.com/yukihane/java8maven</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
