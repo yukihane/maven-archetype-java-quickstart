@@ -21,6 +21,6 @@ ex)
     mvn archetype:generate -DarchetypeCatalog=local
 (listed only in local catalog)
 
-    mvn archetype:generate -DarchetypeGroupId=com.github.yukihane.maven.archetype -DarchetypeArtifactId=java8-quickstart
+    mvn archetype:generate -DarchetypeGroupId=jp.himeji-cs.maven.archetype -DarchetypeArtifactId=java8-quickstart
 
 and so on.
