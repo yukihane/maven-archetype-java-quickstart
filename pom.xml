@@ -3,18 +3,18 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>jp.himeji-cs.maven.archetype</groupId>
-  <artifactId>java8-quickstart</artifactId>
-  <version>0.3.0</version>
+  <artifactId>java9-quickstart</artifactId>
+  <version>0.1.0</version>
   <packaging>jar</packaging>
 
-  <name>Java8 quickstart</name>
+  <name>Java9 quickstart</name>
   <url>https://github.com/yukihane/maven-archetype-java-quickstart</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.9</maven.compiler.source>
+    <maven.compiler.target>1.9</maven.compiler.target>
   </properties>
 
   <build>
