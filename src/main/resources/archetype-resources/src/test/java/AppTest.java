@@ -1,8 +1,8 @@
 package $package;
 
-import static org.junit.Assert.*;
+import static org.assertj.core.api.Assertions.*;
 
-import org.junit.*;
+import org.junit.jupiter.api.*;
 
 /**
  * Unit test for simple App.
@@ -14,6 +14,6 @@ public class AppTest {
      */
     @Test
     public void testApp() {
-        assertTrue(true);
+        assertThat(true).isEqualTo(false);
     }
 }
