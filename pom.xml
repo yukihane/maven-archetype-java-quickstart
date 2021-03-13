@@ -4,7 +4,7 @@
 
   <groupId>jp.himeji-cs.maven.archetype</groupId>
   <artifactId>java11-quickstart</artifactId>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <packaging>jar</packaging>
 
   <name>Java11 quickstart</name>
