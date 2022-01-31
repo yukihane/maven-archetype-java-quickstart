@@ -11,6 +11,7 @@ https://maven.apache.org/guides/mini/guide-creating-archetypes.html
     mvn archetype:update-local-catalog
 
 On [Mac](https://stackoverflow.com/a/48264940/4506703), additional:
+
     mvn archetype:crawl
 
 for update `~/.m2/archetype-catalog.xml`.
