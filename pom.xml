@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>jp.himeji-cs.maven.archetype</groupId>
-  <artifactId>java17-quickstart</artifactId>
-  <version>0.3.3</version>
+  <artifactId>java21-quickstart</artifactId>
+  <version>0.4.0</version>
   <packaging>jar</packaging>
 
-  <name>Java17 quickstart</name>
+  <name>Java21 quickstart</name>
   <url>https://github.com/yukihane/maven-archetype-java-quickstart</url>
 
   <properties>
