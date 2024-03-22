@@ -23,6 +23,6 @@ ex)
 
 (listed only in local catalog)
 
-    mvn archetype:generate -DarchetypeGroupId=jp.himeji-cs.maven.archetype -DarchetypeArtifactId=java8-quickstart
+    mvn archetype:generate -DarchetypeGroupId=jp.himeji-cs.maven.archetype -DarchetypeArtifactId=java21-quickstart
 
 and so on.
